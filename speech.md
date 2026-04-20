@@ -1,5 +1,4 @@
-
-Today I want to start from a very simple observation. In most applied data problems now, especially in the IoT and information age, the problem is usually no longer that we have too little data. The problem is that we have too much data.
+In most applied data problems now, especially in the IoT and information age, the problem is usually no longer that we have too little data. The problem is that we have too much data.
 
 We have sensors, platforms, satellite products, administrative systems, logs, APIs, all producing huge volumes of spatial and temporal information. Some of that information is highly valuable. Some of it is noise. But either way, we still have to process it, transform it, and turn it into something useful for analysis or modelling.
 
